@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337705991462",
+    "project_id": "gradientdesign-ae180",
+    "storage_bucket": "gradientdesign-ae180.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337705991462:android:e11cfaaaea515fdb4455e7",
+        "android_client_info": {
+          "package_name": "com.example.gradientdesign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHRZrX9o3kjrS8AIkNDEXQdAugLY7toSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
